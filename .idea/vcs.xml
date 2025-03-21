@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AI-Driver-CNN-DeepLearning-PyTorch" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AI_Learns_to_Drive" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/NEAT-Flappy-Bird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AI_Cars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AI_Drive_Car" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flappy_Bird" vcs="Git" />
   </component>
 </project>
